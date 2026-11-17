@@ -12,3 +12,5 @@ Smart Hydroponics Management System: monitors humidity, temperature, and EC.
 
 ## Run it
 Open `index.html` in a browser.
+
+Built by WinWut
